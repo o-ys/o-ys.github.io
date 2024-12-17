@@ -1,7 +1,25 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
+  - title: "MD"
+    children:
+      - title: "PPI"
+        url: "MD/PPI/"
+  - title: "VS
+    children:
+      - title: "JAK2"
+        url: "VS/JAK2/"
+  - title: "Study"
+    children:
+      - title: "GenerativeAI"
+        url: "Study/GenerativeAI"
+      - title: "Python"
+        url: "Study/python"
+      - title: "LAIDD"
+        url: "Study/LAIDD/"
+      - title: "CompChem"
+        url: "Study/CompChem/"
+  - title: "Undergraduate"
+    url: "Unergraduate/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
