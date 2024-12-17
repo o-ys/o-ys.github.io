@@ -3,23 +3,25 @@ main:
   - title: "MD"
     children:
       - title: "PPI"
-        url: "MD/PPI/"
+        url: "categories/PPI/"
   - title: "VS"
     children:
       - title: "JAK2"
-        url: "VS/JAK2/"
+        url: "categories/JAK2/"
   - title: "Study"
     children:
       - title: "GenerativeAI"
-        url: "Study/GenerativeAI"
+        url: "categories/GenerativeAI"
       - title: "Python"
-        url: "Study/python"
+        url: "categories/python"
       - title: "LAIDD"
-        url: "Study/LAIDD/"
+        url: "categories/LAIDD/"
       - title: "CompChem"
-        url: "Study/CompChem/"
+        url: "categories/CompChem/"
   - title: "Undergraduate"
-    url: "Unergraduate/"
+    chlidren:
+      - title: "Projects"
+        url: "categories/Projects/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
