@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "OYS world"
+title                    : "OYS NOTE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ye-seul Oh"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Ye-seul Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **flexible** person."
-  location         : "Seoul"
+  bio              : #"I am an **flexible** person."
+  location         : "Seoul, South Korea"
   email            : "ohyeseul72@gmail.com"
   links:
     - label: "Email"
